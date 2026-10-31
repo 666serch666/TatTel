@@ -1,0 +1,6 @@
+{
+  "name": "TatTel",
+  "description": "Минималистичное мобильное приложение для изучения татарского языка",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
